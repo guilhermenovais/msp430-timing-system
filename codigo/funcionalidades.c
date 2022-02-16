@@ -291,22 +291,22 @@ void zera_disp(void) {
 }
 
 void inicia_temp(void) {
-  d1 = 0;
+  d1 = t1;
   desloca_cursor(1);
   envia_numero(d1);
-  d2 = 0;
+  d2 = t2;
   desloca_cursor(2);
   envia_numero(d2);
-  d3 = 1;
+  d3 = t3;
   desloca_cursor(3);
   envia_numero(d3);
-  d4 = 0;
+  d4 = t4;
   desloca_cursor(4);
   envia_numero(d4);
-  d5 = 0;
+  d5 = t5;
   desloca_cursor(5);
   envia_numero(d5);
-  d6 = 0;
+  d6 = t6;
   desloca_cursor(6);
   envia_numero(d6);
 }
@@ -365,7 +365,7 @@ void inicia_rlg(void) {
 void trata_tecla(char tecla) {
   switch (modo)
       {
-      case 0:
+      case 0: // Relógio
         switch (tecla) {
               case 0x37: // H+
                 inc_hora_disp();
@@ -404,7 +404,7 @@ void trata_tecla(char tecla) {
               }
         break;
 
-      case 1:
+      case 1: // Temporizador
         switch (tecla)
               {
               case 0x37: // H+
@@ -452,7 +452,7 @@ void trata_tecla(char tecla) {
               }
         break;
 
-      case 2:
+      case 2: // Cronômetro
         switch (tecla) {
               case 0x36: // Z
                 zera_disp();

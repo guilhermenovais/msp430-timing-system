@@ -5,23 +5,39 @@
     <configuration>
         <name>Debug</name>
         <outputs>
+            <file>$PROJ_DIR$\teclado.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\sistema_de_temporizacao.pbd</file>
+            <file>$TOOLKIT_DIR$\lib\dlib\dl430fn.r43</file>
+            <file>$PROJ_DIR$\Debug\Exe\sistema_de_temporizacao.ulp</file>
+            <file>$PROJ_DIR$\Debug\Obj\funcionalidades.r43</file>
+            <file>$PROJ_DIR$\teclado.h</file>
+            <file>$PROJ_DIR$\lcd.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\sistema_de_temporizacao.d43</file>
+            <file>$PROJ_DIR$\timer.h</file>
+            <file>$PROJ_DIR$\lcd.c</file>
+            <file>$PROJ_DIR$\main.c</file>
+            <file>$PROJ_DIR$\Debug\Exe\sistema_de_temporizacao.elf</file>
+            <file>$PROJ_DIR$\timer.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\teclado.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\teclado.r43</file>
+            <file>$PROJ_DIR$\Debug\List\sistema_de_temporizacao.map</file>
             <file>$PROJ_DIR$\Debug\Obj\lcd.xcl</file>
             <file>$PROJ_DIR$\Debug\Obj\funcionalidades.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\teclado.xcl</file>
-            <file>$PROJ_DIR$\Debug\Obj\timer.r43</file>
-            <file>$PROJ_DIR$\Debug\Obj\lcd.r43</file>
-            <file>$PROJ_DIR$\Debug\Obj\funcionalidades.r43</file>
-            <file>$PROJ_DIR$\Debug\Obj\teclado.r43</file>
-            <file>$PROJ_DIR$\Debug\Obj\main.xcl</file>
-            <file>$PROJ_DIR$\Debug\Exe\sistema_de_temporizacao.ulp</file>
-            <file>$PROJ_DIR$\Debug\Exe\sistema_de_temporizacao.d43</file>
-            <file>$PROJ_DIR$\Debug\Obj\sistema_de_temporizacao.pbd</file>
+            <file>$TOOLKIT_DIR$\config\linker\lnk430f1121.xcl</file>
             <file>$PROJ_DIR$\Debug\Obj\main.r43</file>
-            <file>$PROJ_DIR$\main.c</file>
             <file>$PROJ_DIR$\funcionalidades.c</file>
-            <file>$PROJ_DIR$\timer.c</file>
-            <file>$PROJ_DIR$\teclado.c</file>
-            <file>$PROJ_DIR$\lcd.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\teclado.xcl</file>
+            <file>$PROJ_DIR$\funcionalidades.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcd.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\in430.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\funcionalidades.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\lcd.r43</file>
+            <file>$PROJ_DIR$\Debug\Obj\timer.__cstat.et</file>
+            <file>$PROJ_DIR$\Debug\Obj\timer.r43</file>
+            <file>$TOOLKIT_DIR$\inc\intrinsics.h</file>
+            <file>$TOOLKIT_DIR$\inc\msp430f1121.h</file>
             <file>$PROJ_DIR$\Debug\Obj\timer.xcl</file>
         </outputs>
         <file>
@@ -29,26 +45,120 @@
             <outputs>
                 <tool>
                     <name>XLINK</name>
-                    <file> 9</file>
+                    <file> 8 16 12</file>
                 </tool>
                 <tool>
                     <name>ULP430</name>
-                    <file> 8</file>
+                    <file> 4</file>
                 </tool>
             </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\teclado.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 15</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 14</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 6 32 25 31 7</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\sistema_de_temporizacao.d43</name>
+            <outputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 16 12</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>XLINK</name>
+                    <file> 19 5 28 20 15 30 3</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\lcd.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 28</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 24</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 17</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 7 32 25 31</file>
+                </tool>
+            </inputs>
         </file>
         <file>
             <name>$PROJ_DIR$\main.c</name>
             <outputs>
                 <tool>
                     <name>ICC430</name>
-                    <file> 11</file>
+                    <file> 20</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 27</file>
                 </tool>
                 <tool>
                     <name>BICOMP</name>
-                    <file> 7</file>
+                    <file> 1</file>
                 </tool>
             </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 32 25 31 7 6 9 23</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\timer.c</name>
+            <outputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 30</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 29</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICC430</name>
+                    <file> 9 7 32 25 31</file>
+                </tool>
+            </inputs>
         </file>
         <file>
             <name>$PROJ_DIR$\funcionalidades.c</name>
@@ -58,57 +168,21 @@
                     <file> 5</file>
                 </tool>
                 <tool>
+                    <name>__cstat</name>
+                    <file> 26</file>
+                </tool>
+                <tool>
                     <name>BICOMP</name>
-                    <file> 1</file>
+                    <file> 18</file>
                 </tool>
             </outputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\timer.c</name>
-            <outputs>
+            <inputs>
                 <tool>
                     <name>ICC430</name>
-                    <file> 3</file>
+                    <file> 23 7 32 25 31</file>
                 </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 17</file>
-                </tool>
-            </outputs>
+            </inputs>
         </file>
-        <file>
-            <name>$PROJ_DIR$\teclado.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC430</name>
-                    <file> 6</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 2</file>
-                </tool>
-            </outputs>
-        </file>
-        <file>
-            <name>$PROJ_DIR$\lcd.c</name>
-            <outputs>
-                <tool>
-                    <name>ICC430</name>
-                    <file> 4</file>
-                </tool>
-                <tool>
-                    <name>BICOMP</name>
-                    <file> 0</file>
-                </tool>
-            </outputs>
-        </file>
-        <forcedrebuild>
-            <name>[MULTI_TOOL]</name>
-            <tool>XLINK</tool>
-        </forcedrebuild>
-        <forcedrebuild>
-            <name>[REBUILD_ALL]</name>
-        </forcedrebuild>
     </configuration>
     <configuration>
         <name>Release</name>

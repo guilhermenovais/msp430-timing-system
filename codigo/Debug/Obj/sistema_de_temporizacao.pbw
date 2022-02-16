@@ -560,566 +560,6 @@
     "scope": null
   },
   {
-    "ID": "c:lcd.h@23@macro@LCD_H",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "LCD_H",
-    "location": {
-      "column": "9",
-      "line": "2",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "LCD_H",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@135@macro@DADOS",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "DADOS",
-    "location": {
-      "column": "9",
-      "line": "7",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "DADOS",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@161@macro@DADOS_DIR",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "DADOS_DIR",
-    "location": {
-      "column": "9",
-      "line": "8",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "DADOS_DIR",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@187@macro@CTRL",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "CTRL",
-    "location": {
-      "column": "9",
-      "line": "9",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "CTRL",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@217@macro@CTRL_DIR",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "CTRL_DIR",
-    "location": {
-      "column": "9",
-      "line": "10",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "CTRL_DIR",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@247@macro@RS",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "RS",
-    "location": {
-      "column": "9",
-      "line": "11",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "RS",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@276@macro@ENABLE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "ENABLE",
-    "location": {
-      "column": "9",
-      "line": "12",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "ENABLE",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@305@macro@DADO_0",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "DADO_0",
-    "location": {
-      "column": "9",
-      "line": "13",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "DADO_0",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@334@macro@DADO_1",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "DADO_1",
-    "location": {
-      "column": "9",
-      "line": "14",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "DADO_1",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@363@macro@OE_74HC241",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "OE_74HC241",
-    "location": {
-      "column": "9",
-      "line": "15",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "OE_74HC241",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@450@macro@LCD_1_LINHA",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "LCD_1_LINHA",
-    "location": {
-      "column": "9",
-      "line": "18",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "LCD_1_LINHA",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@479@macro@LCD_2_LINHA",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "LCD_2_LINHA",
-    "location": {
-      "column": "9",
-      "line": "19",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "LCD_2_LINHA",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@508@macro@LCD_3_LINHA",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "LCD_3_LINHA",
-    "location": {
-      "column": "9",
-      "line": "20",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "LCD_3_LINHA",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@592@macro@INTE_4BITS_2L",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "INTE_4BITS_2L",
-    "location": {
-      "column": "9",
-      "line": "23",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "INTE_4BITS_2L",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@621@macro@INTE_8BITS_2L",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "INTE_8BITS_2L",
-    "location": {
-      "column": "9",
-      "line": "24",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "INTE_8BITS_2L",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@650@macro@ATIVA_DISP",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "ATIVA_DISP",
-    "location": {
-      "column": "9",
-      "line": "25",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "ATIVA_DISP",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@679@macro@DESLOC_DIR",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "DESLOC_DIR",
-    "location": {
-      "column": "9",
-      "line": "26",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "DESLOC_DIR",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@709@macro@LIMPA_DISP",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "LIMPA_DISP",
-    "location": {
-      "column": "9",
-      "line": "27",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "LIMPA_DISP",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@738@macro@RESET",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "RESET",
-    "location": {
-      "column": "9",
-      "line": "28",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "RESET",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@804@macro@LIMPA_TELA",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "LIMPA_TELA",
-    "location": {
-      "column": "9",
-      "line": "31",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "LIMPA_TELA",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@833@macro@C_INATIVO",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "C_INATIVO",
-    "location": {
-      "column": "9",
-      "line": "32",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "C_INATIVO",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@862@macro@C_ALTERNADO",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "C_ALTERNADO",
-    "location": {
-      "column": "9",
-      "line": "33",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "C_ALTERNADO",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@891@macro@C_PISCANTE",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "C_PISCANTE",
-    "location": {
-      "column": "9",
-      "line": "34",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "C_PISCANTE",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@920@macro@C_FIXO",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "C_FIXO",
-    "location": {
-      "column": "9",
-      "line": "35",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "C_FIXO",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@951@macro@LINHA1",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "LINHA1",
-    "location": {
-      "column": "9",
-      "line": "37",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "LINHA1",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:lcd.h@980@macro@LINHA2",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "LINHA2",
-    "location": {
-      "column": "9",
-      "line": "38",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "LINHA2",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@pulso",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void pulso(void)",
-    "location": {
-      "column": "6",
-      "line": "46",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "pulso",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@pulso",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void pulso(void)",
-    "location": {
-      "column": "6",
-      "line": "46",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "pulso",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@envia_dado",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void envia_dado(char)",
-    "location": {
-      "column": "6",
-      "line": "54",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "envia_dado",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@envia_dado",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void envia_dado(char)",
-    "location": {
-      "column": "6",
-      "line": "54",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "envia_dado",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@envia_comando",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void envia_comando(char)",
-    "location": {
-      "column": "6",
-      "line": "62",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "envia_comando",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@envia_comando",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void envia_comando(char)",
-    "location": {
-      "column": "6",
-      "line": "62",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "envia_comando",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@envia_string",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void envia_string(unsigned char *)",
-    "location": {
-      "column": "6",
-      "line": "70",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "envia_string",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@envia_string",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void envia_string(unsigned char *)",
-    "location": {
-      "column": "6",
-      "line": "70",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "envia_string",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@desloca_cursor",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void desloca_cursor(char)",
-    "location": {
-      "column": "6",
-      "line": "78",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "desloca_cursor",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@desloca_cursor",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void desloca_cursor(char)",
-    "location": {
-      "column": "6",
-      "line": "78",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "desloca_cursor",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@envia_numero",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void envia_numero(char)",
-    "location": {
-      "column": "6",
-      "line": "86",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "envia_numero",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@envia_numero",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void envia_numero(char)",
-    "location": {
-      "column": "6",
-      "line": "86",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "envia_numero",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@programa_lcd",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void programa_lcd(void)",
-    "location": {
-      "column": "6",
-      "line": "94",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "programa_lcd",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@programa_lcd",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void programa_lcd(void)",
-    "location": {
-      "column": "6",
-      "line": "94",
-      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
-    },
-    "name": "programa_lcd",
-    "origin": "user_include",
-    "scope": null
-  },
-  {
     "ID": "c:msp430f1121.h@927@macro@__msp430x11x1",
     "What": "MacroDef",
     "defdec": "Def",
@@ -6101,6 +5541,566 @@
     },
     "name": "RESET_VECTOR",
     "origin": "system_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@23@macro@LCD_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LCD_H",
+    "location": {
+      "column": "9",
+      "line": "2",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "LCD_H",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@135@macro@DADOS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DADOS",
+    "location": {
+      "column": "9",
+      "line": "7",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "DADOS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@161@macro@DADOS_DIR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DADOS_DIR",
+    "location": {
+      "column": "9",
+      "line": "8",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "DADOS_DIR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@187@macro@CTRL",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CTRL",
+    "location": {
+      "column": "9",
+      "line": "9",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "CTRL",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@217@macro@CTRL_DIR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "CTRL_DIR",
+    "location": {
+      "column": "9",
+      "line": "10",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "CTRL_DIR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@247@macro@RS",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RS",
+    "location": {
+      "column": "9",
+      "line": "11",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "RS",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@276@macro@ENABLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ENABLE",
+    "location": {
+      "column": "9",
+      "line": "12",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "ENABLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@305@macro@DADO_0",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DADO_0",
+    "location": {
+      "column": "9",
+      "line": "13",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "DADO_0",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@334@macro@DADO_1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DADO_1",
+    "location": {
+      "column": "9",
+      "line": "14",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "DADO_1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@363@macro@OE_74HC241",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "OE_74HC241",
+    "location": {
+      "column": "9",
+      "line": "15",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "OE_74HC241",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@450@macro@LCD_1_LINHA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LCD_1_LINHA",
+    "location": {
+      "column": "9",
+      "line": "18",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "LCD_1_LINHA",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@479@macro@LCD_2_LINHA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LCD_2_LINHA",
+    "location": {
+      "column": "9",
+      "line": "19",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "LCD_2_LINHA",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@508@macro@LCD_3_LINHA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LCD_3_LINHA",
+    "location": {
+      "column": "9",
+      "line": "20",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "LCD_3_LINHA",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@592@macro@INTE_4BITS_2L",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INTE_4BITS_2L",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "INTE_4BITS_2L",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@621@macro@INTE_8BITS_2L",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INTE_8BITS_2L",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "INTE_8BITS_2L",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@650@macro@ATIVA_DISP",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ATIVA_DISP",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "ATIVA_DISP",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@679@macro@DESLOC_DIR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DESLOC_DIR",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "DESLOC_DIR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@709@macro@LIMPA_DISP",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LIMPA_DISP",
+    "location": {
+      "column": "9",
+      "line": "27",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "LIMPA_DISP",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@738@macro@RESET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "RESET",
+    "location": {
+      "column": "9",
+      "line": "28",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "RESET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@804@macro@LIMPA_TELA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LIMPA_TELA",
+    "location": {
+      "column": "9",
+      "line": "31",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "LIMPA_TELA",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@833@macro@C_INATIVO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "C_INATIVO",
+    "location": {
+      "column": "9",
+      "line": "32",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "C_INATIVO",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@862@macro@C_ALTERNADO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "C_ALTERNADO",
+    "location": {
+      "column": "9",
+      "line": "33",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "C_ALTERNADO",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@891@macro@C_PISCANTE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "C_PISCANTE",
+    "location": {
+      "column": "9",
+      "line": "34",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "C_PISCANTE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@920@macro@C_FIXO",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "C_FIXO",
+    "location": {
+      "column": "9",
+      "line": "35",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "C_FIXO",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@951@macro@LINHA1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LINHA1",
+    "location": {
+      "column": "9",
+      "line": "37",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "LINHA1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:lcd.h@980@macro@LINHA2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LINHA2",
+    "location": {
+      "column": "9",
+      "line": "38",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "LINHA2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@pulso",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void pulso(void)",
+    "location": {
+      "column": "6",
+      "line": "46",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "pulso",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@pulso",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void pulso(void)",
+    "location": {
+      "column": "6",
+      "line": "46",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "pulso",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@envia_dado",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void envia_dado(char)",
+    "location": {
+      "column": "6",
+      "line": "54",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "envia_dado",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@envia_dado",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void envia_dado(char)",
+    "location": {
+      "column": "6",
+      "line": "54",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "envia_dado",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@envia_comando",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void envia_comando(char)",
+    "location": {
+      "column": "6",
+      "line": "62",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "envia_comando",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@envia_comando",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void envia_comando(char)",
+    "location": {
+      "column": "6",
+      "line": "62",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "envia_comando",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@envia_string",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void envia_string(unsigned char *)",
+    "location": {
+      "column": "6",
+      "line": "70",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "envia_string",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@envia_string",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void envia_string(unsigned char *)",
+    "location": {
+      "column": "6",
+      "line": "70",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "envia_string",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@desloca_cursor",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void desloca_cursor(char)",
+    "location": {
+      "column": "6",
+      "line": "78",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "desloca_cursor",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@desloca_cursor",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void desloca_cursor(char)",
+    "location": {
+      "column": "6",
+      "line": "78",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "desloca_cursor",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@envia_numero",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void envia_numero(char)",
+    "location": {
+      "column": "6",
+      "line": "86",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "envia_numero",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@envia_numero",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void envia_numero(char)",
+    "location": {
+      "column": "6",
+      "line": "86",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "envia_numero",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@programa_lcd",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void programa_lcd(void)",
+    "location": {
+      "column": "6",
+      "line": "94",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "programa_lcd",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@programa_lcd",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void programa_lcd(void)",
+    "location": {
+      "column": "6",
+      "line": "94",
+      "path": "C:\\Users\\guilh\\OneDrive\\CEFET\\LSDIII\\Sistema_de_Temporizacao\\codigo\\lcd.h"
+    },
+    "name": "programa_lcd",
+    "origin": "user_include",
     "scope": null
   },
   {

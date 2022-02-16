@@ -2,7 +2,7 @@
 #                                                                              #
 #      IAR Universal Linker V6.6.2.104                                         #
 #                                                                              #
-#           Link time     =  16/Feb/2022  18:30:31                             #
+#           Link time     =  16/Feb/2022  20:14:43                             #
 #           Target CPU    =  MSP430                                            #
 #           List file     =  C:\Users\guilh\OneDrive\CEFET\LSDIII\Sistema_de_T #
 #                            emporizacao\codigo\Debug\List\sistema_de_temporiz #
@@ -17,7 +17,7 @@
 #                            Format: ubrof10                                   #
 #                            UBROF version 10.0.6                              #
 #                            Using library modules for C-SPY (-rt)             #
-#           Command line  =  -f C:\Users\guilh\AppData\Local\Temp\EW9719.tmp   #
+#           Command line  =  -f C:\Users\guilh\AppData\Local\Temp\EWFC2D.tmp   #
 #                            (C:\Users\guilh\OneDrive\CEFET\LSDIII\Sistema_de_ #
 #                            Temporizacao\codigo\Debug\Obj\funcionalidades.r43 #
 #                            C:\Users\guilh\OneDrive\CEFET\LSDIII\Sistema_de_T #
@@ -302,61 +302,67 @@ DATA16_Z
     -------------------------------------------------------------------------
 DATA16_Z
   Relative segment, address: 0211 - 0211 (0x1 bytes), align: 0
-  Segment part 19.            Intra module refs:   registra_temp
+  Segment part 19.            Intra module refs:   inicia_temp
+                                                   registra_temp
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
            t1                      0211 
     -------------------------------------------------------------------------
 DATA16_Z
   Relative segment, address: 0212 - 0212 (0x1 bytes), align: 0
-  Segment part 20.            Intra module refs:   registra_temp
+  Segment part 20.            Intra module refs:   inicia_temp
+                                                   registra_temp
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
            t2                      0212 
     -------------------------------------------------------------------------
 DATA16_I
   Relative segment, address: 0201 - 0201 (0x1 bytes), align: 0
-  Segment part 21.            Intra module refs:   registra_temp
+  Segment part 21.            Intra module refs:   inicia_temp
+                                                   registra_temp
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
            t3                      0201 
     -------------------------------------------------------------------------
 DATA16_Z
   Relative segment, address: 0213 - 0213 (0x1 bytes), align: 0
-  Segment part 23.            Intra module refs:   registra_temp
+  Segment part 23.            Intra module refs:   inicia_temp
+                                                   registra_temp
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
            t4                      0213 
     -------------------------------------------------------------------------
 DATA16_Z
   Relative segment, address: 0214 - 0214 (0x1 bytes), align: 0
-  Segment part 24.            Intra module refs:   registra_temp
+  Segment part 24.            Intra module refs:   inicia_temp
+                                                   registra_temp
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
            t5                      0214 
     -------------------------------------------------------------------------
 DATA16_Z
   Relative segment, address: 0215 - 0215 (0x1 bytes), align: 0
-  Segment part 25.            Intra module refs:   registra_temp
+  Segment part 25.            Intra module refs:   inicia_temp
+                                                   registra_temp
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
            t6                      0215 
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F560 - F5C9 (0x6a bytes), align: 1
+  Relative segment, address: F56C - F5D5 (0x6a bytes), align: 1
   Segment part 29.            Intra module refs:   trata_interrupcao
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           inc_seg_disp            F560 
+           inc_seg_disp            F56C 
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F632 - F697 (0x66 bytes), align: 1
+  Relative segment, address: F63E - F6A3 (0x66 bytes), align: 1
   Segment part 28.            Intra module refs:   inc_seg_disp
                                                    trata_tecla
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           inc_min_disp            F632 
+           inc_min_disp            F63E 
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
@@ -369,29 +375,29 @@ DATA16_Z
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F838 - F861 (0x2a bytes), align: 1
+  Relative segment, address: F844 - F86D (0x2a bytes), align: 1
   Segment part 32.            Intra module refs:   trata_interrupcao
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           inc_seg_rlg             F838 
+           inc_seg_rlg             F844 
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F80E - F837 (0x2a bytes), align: 1
+  Relative segment, address: F81A - F843 (0x2a bytes), align: 1
   Segment part 31.            Intra module refs:   inc_seg_rlg
                                                    trata_tecla
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           inc_min_rlg             F80E 
+           inc_min_rlg             F81A 
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F5CA - F631 (0x68 bytes), align: 1
+  Relative segment, address: F5D6 - F63D (0x68 bytes), align: 1
   Segment part 30.            Intra module refs:   inc_min_rlg
                                                    trata_tecla
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           inc_hora_rlg            F5CA 
+           inc_hora_rlg            F5D6 
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
   Relative segment, address: F28E - F30F (0x82 bytes), align: 1
@@ -402,69 +408,69 @@ DATA16_Z
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F698 - F6FD (0x66 bytes), align: 1
+  Relative segment, address: F6A4 - F709 (0x66 bytes), align: 1
   Segment part 34.            Intra module refs:   dec_seg_disp
                                                    trata_tecla
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           dec_min_disp            F698 
+           dec_min_disp            F6A4 
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F4F0 - F55F (0x70 bytes), align: 1
+  Relative segment, address: F4FC - F56B (0x70 bytes), align: 1
   Segment part 33.            Intra module refs:   dec_min_disp
                                                    trata_tecla
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           dec_hora_disp           F4F0 
+           dec_hora_disp           F4FC 
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F7E4 - F80D (0x2a bytes), align: 1
+  Relative segment, address: F7F0 - F819 (0x2a bytes), align: 1
   Segment part 37.            Intra module refs:   trata_tecla
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           dec_min_rlg             F7E4 
+           dec_min_rlg             F7F0 
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F862 - F88B (0x2a bytes), align: 1
+  Relative segment, address: F86E - F897 (0x2a bytes), align: 1
   Segment part 36.            Intra module refs:   dec_min_rlg
                                                    trata_tecla
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           dec_hora_rlg            F862 
+           dec_hora_rlg            F86E 
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F408 - F47B (0x74 bytes), align: 1
+  Relative segment, address: F488 - F4FB (0x74 bytes), align: 1
   Segment part 26.            Intra module refs:   inc_hora_disp
                                                    trata_tecla
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           zera_disp               F408 
+           zera_disp               F488 
                calls direct
-    -------------------------------------------------------------------------
-<CODE> 1 (was CODE)
-  Relative segment, address: F47C - F4EF (0x74 bytes), align: 1
-  Segment part 38.            Intra module refs:   trata_tecla
-           ENTRY                   ADDRESS         REF BY
-           =====                   =======         ======
-           inicia_temp             F47C 
-               calls direct
-    -------------------------------------------------------------------------
-<CODE> 1 (was CODE)
-  Relative segment, address: F92A - F94F (0x26 bytes), align: 1
-  Segment part 39.            Intra module refs:   trata_tecla
-           ENTRY                   ADDRESS         REF BY
-           =====                   =======         ======
-           registra_temp           F92A 
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
   Relative segment, address: F310 - F38F (0x80 bytes), align: 1
+  Segment part 38.            Intra module refs:   trata_tecla
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           inicia_temp             F310 
+               calls direct
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: F936 - F95B (0x26 bytes), align: 1
+  Segment part 39.            Intra module refs:   trata_tecla
+           ENTRY                   ADDRESS         REF BY
+           =====                   =======         ======
+           registra_temp           F936 
+    -------------------------------------------------------------------------
+<CODE> 1 (was CODE)
+  Relative segment, address: F390 - F40F (0x80 bytes), align: 1
   Segment part 41.            Intra module refs:   trata_tecla
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           inicia_rlg              F310 
+           inicia_rlg              F390 
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
@@ -476,11 +482,11 @@ DATA16_Z
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F762 - F7A7 (0x46 bytes), align: 1
+  Relative segment, address: F76E - F7B3 (0x46 bytes), align: 1
   Segment part 43.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           trata_interrupcao       F762            TIMER0_A1_ISR (main)
+           trata_interrupcao       F76E            TIMER0_A1_ISR (main)
                calls direct
     -------------------------------------------------------------------------
 DATA16_ID
@@ -520,45 +526,45 @@ DATA16_AN
            P2OUT                   0029 
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F8DE - F903 (0x26 bytes), align: 1
+  Relative segment, address: F8EA - F90F (0x26 bytes), align: 1
   Segment part 4.             Intra module refs:   envia_comando
                                                    envia_dado
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           pulso                   F8DE 
+           pulso                   F8EA 
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F9C2 - F9CF (0xe bytes), align: 1
+  Relative segment, address: F9CE - F9DB (0xe bytes), align: 1
   Segment part 5.             Intra module refs:   envia_numero
                                                    envia_string
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           envia_dado              F9C2            trata_tecla (funcionalidades)
+           envia_dado              F9CE            trata_tecla (funcionalidades)
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F9D0 - F9DD (0xe bytes), align: 1
+  Relative segment, address: F9DC - F9E9 (0xe bytes), align: 1
   Segment part 6.             Intra module refs:   desloca_cursor
                                                    programa_lcd
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           envia_comando           F9D0 
+           envia_comando           F9DC 
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F966 - F979 (0x14 bytes), align: 1
+  Relative segment, address: F972 - F985 (0x14 bytes), align: 1
   Segment part 7.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           envia_string            F966            main (main)
+           envia_string            F972            main (main)
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F6FE - F761 (0x64 bytes), align: 1
+  Relative segment, address: F70A - F76D (0x64 bytes), align: 1
   Segment part 8.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           desloca_cursor          F6FE            dec_hora_disp (funcionalidades)
+           desloca_cursor          F70A            dec_hora_disp (funcionalidades)
                                                    dec_min_disp (funcionalidades)
                                                    dec_seg_disp (funcionalidades)
                                                    inc_hora_disp (funcionalidades)
@@ -571,11 +577,11 @@ DATA16_AN
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F9DE - F9E7 (0xa bytes), align: 1
+  Relative segment, address: F9EA - F9F3 (0xa bytes), align: 1
   Segment part 9.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           envia_numero            F9DE            dec_hora_disp (funcionalidades)
+           envia_numero            F9EA            dec_hora_disp (funcionalidades)
                                                    dec_min_disp (funcionalidades)
                                                    dec_seg_disp (funcionalidades)
                                                    inc_hora_disp (funcionalidades)
@@ -587,11 +593,11 @@ DATA16_AN
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F88C - F8B5 (0x2a bytes), align: 1
+  Relative segment, address: F898 - F8C1 (0x2a bytes), align: 1
   Segment part 10.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           programa_lcd            F88C            main (main)
+           programa_lcd            F898            main (main)
                calls direct
 
     *************************************************************************
@@ -616,19 +622,19 @@ DATA16_AN
            TAIV                    012E 
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F8B6 - F8DD (0x28 bytes), align: 1
+  Relative segment, address: F8C2 - F8E9 (0x28 bytes), align: 1
   Segment part 6.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           main                    F8B6            Segment part 19 (?cstart)
+           main                    F8C2            Segment part 19 (?cstart)
                calls direct
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F904 - F929 (0x26 bytes), align: 1
+  Relative segment, address: F910 - F935 (0x26 bytes), align: 1
   Segment part 7.             Intra module refs:   TIMER0_A1_ISR::??INTVEC 16
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           TIMER0_A1_ISR           F904 
+           TIMER0_A1_ISR           F910 
                interrupt function
                calls direct
     -------------------------------------------------------------------------
@@ -673,18 +679,18 @@ DATA16_C
            TAB_LIN                 F01E 
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F7A8 - F7E3 (0x3c bytes), align: 1
+  Relative segment, address: F7B4 - F7EF (0x3c bytes), align: 1
   Segment part 7.             Intra module refs:   teclado
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           ler_colunas             F7A8 
+           ler_colunas             F7B4 
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F390 - F407 (0x78 bytes), align: 1
+  Relative segment, address: F410 - F487 (0x78 bytes), align: 1
   Segment part 8.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           teclado                 F390            main (main)
+           teclado                 F410            main (main)
                calls direct
 
     *************************************************************************
@@ -730,18 +736,18 @@ DATA16_AN
            TACCR0                  0172 
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F950 - F965 (0x16 bytes), align: 1
+  Relative segment, address: F95C - F971 (0x16 bytes), align: 1
   Segment part 9.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           configura_msp           F950            main (main)
+           configura_msp           F95C            main (main)
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F97A - F98D (0x14 bytes), align: 1
+  Relative segment, address: F986 - F999 (0x14 bytes), align: 1
   Segment part 10.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           configura_timer         F97A            main (main)
+           configura_timer         F986            main (main)
 
     *************************************************************************
 
@@ -751,11 +757,11 @@ DATA16_AN
   SEGMENTS IN THE MODULE
   ======================
 <CODE> 1 (was CODE)
-  Relative segment, address: F9F4 - F9F5 (0x2 bytes), align: 1
+  Relative segment, address: FA00 - FA01 (0x2 bytes), align: 1
   Segment part 2.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           __DebugBreak            F9F4            __exit (?__exit)
+           __DebugBreak            FA00            __exit (?__exit)
 
     -------------------------------------------------------------------------
   LIBRARY MODULE, NAME : ?__exit
@@ -763,11 +769,11 @@ DATA16_AN
   SEGMENTS IN THE MODULE
   ======================
 <CODE> 1 (was CODE)
-  Relative segment, address: F9A0 - F9B1 (0x12 bytes), align: 1
+  Relative segment, address: F9AC - F9BD (0x12 bytes), align: 1
   Segment part 2.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           __exit                  F9A0            Segment part 6 (?_exit)
+           __exit                  F9AC            Segment part 6 (?_exit)
                                                    _exit (?_exit)
                calls direct
 
@@ -777,14 +783,14 @@ DATA16_AN
   SEGMENTS IN THE MODULE
   ======================
 <CODE> 1 (was CODE)
-  Relative segment, address: F9F0, align: 1
+  Relative segment, address: F9FC, align: 1
   Segment part 0.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           _exit                   F9F0            exit (?exit)
+           _exit                   F9FC            exit (?exit)
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F9F0 - F9F3 (0x4 bytes), align: 1
+  Relative segment, address: F9FC - F9FF (0x4 bytes), align: 1
   Segment part 6.             Intra module refs:   _exit
 
     -------------------------------------------------------------------------
@@ -877,11 +883,11 @@ RESET
   SEGMENTS IN THE MODULE
   ======================
 <CODE> 1 (was CODE)
-  Relative segment, address: F9EC - F9EF (0x4 bytes), align: 1
+  Relative segment, address: F9F8 - F9FB (0x4 bytes), align: 1
   Segment part 2.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           exit                    F9EC            Segment part 19 (?cstart)
+           exit                    F9F8            Segment part 19 (?cstart)
                calls direct
 
     -------------------------------------------------------------------------
@@ -890,11 +896,11 @@ RESET
   SEGMENTS IN THE MODULE
   ======================
 <CODE> 1 (was CODE)
-  Relative segment, address: F98E - F99F (0x12 bytes), align: 1
+  Relative segment, address: F99A - F9AB (0x12 bytes), align: 1
   Segment part 2.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           memcpy                  F98E            __data16_memcpy (?memzero)
+           memcpy                  F99A            __data16_memcpy (?memzero)
 
     -------------------------------------------------------------------------
   LIBRARY MODULE, NAME : ?memzero
@@ -902,18 +908,18 @@ RESET
   SEGMENTS IN THE MODULE
   ======================
 <CODE> 1 (was CODE)
-  Relative segment, address: F9B2 - F9C1 (0x10 bytes), align: 1
+  Relative segment, address: F9BE - F9CD (0x10 bytes), align: 1
   Segment part 2.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           __data16_memzero        F9B2            ?cstart_init_zero (?cstart)
+           __data16_memzero        F9BE            ?cstart_init_zero (?cstart)
     -------------------------------------------------------------------------
 <CODE> 1 (was CODE)
-  Relative segment, address: F9E8 - F9EB (0x4 bytes), align: 1
+  Relative segment, address: F9F4 - F9F7 (0x4 bytes), align: 1
   Segment part 3.
            ENTRY                   ADDRESS         REF BY
            =====                   =======         ======
-           __data16_memcpy         F9E8            ?cstart_init_copy (?cstart)
+           __data16_memcpy         F9F4            ?cstart_init_copy (?cstart)
                calls direct
 
 
@@ -940,7 +946,7 @@ CSTACK                                 02B0 - 02FF              50   rel    1
 DATA16_C                               F000 - F022              23   rel    0
 DATA16_ID                              F024 - F025               2   rel    1
 CSTART                                 F026 - F04D              28   rel    1
-<CODE> 1                               F04E - F9F5             9A8   rel    1
+<CODE> 1                               F04E - FA01             9B4   rel    1
 INTVEC                                 FFE0 - FFF1              12   com    1
 RESET                                  FFFE - FFFF               2   rel    1
 
@@ -950,7 +956,7 @@ RESET                                  FFFE - FFFF               2   rel    1
                 *                                      *
                 ****************************************
 
- 2 532 bytes of CODE  memory
+ 2 544 bytes of CODE  memory
    102 bytes of DATA  memory (+ 15 absolute )
     37 bytes of CONST memory
 
